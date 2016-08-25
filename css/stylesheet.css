@@ -1,0 +1,65 @@
+/* All CSS styles are arranged Alphabetically */
+
+/* This Resets the CSS styles for margin and padding to be manually defined */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Animations Section */
+@-webkit-keyframes enter {
+    0% {}
+    50% {}
+    75% {}
+    100% {}
+}
+
+@keyframes enter {
+    0% {}
+    50% {}
+    75% {}
+    100% {}
+}
+
+@-webkit-keyframes leave {
+    from {}
+    to {}
+}
+
+@keyframes leave {
+    from {}
+    to {}
+}
+
+/* App Styling Section */
+
+#aboutComponent {
+
+}
+
+#component1Component {
+
+}
+
+#component2Component {
+
+}
+
+#loginComponent {
+
+}
+
+#settingsComponent {
+
+}
+
+footer {
+
+}
+
+header {
+
+}
+
+
