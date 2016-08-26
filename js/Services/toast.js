@@ -8,8 +8,8 @@
             function showToast (item) {
                 $mdToast.show(
                     $mdToast.simple()
-                        .textContent(item  + ' Added!')
-                        .position('bottom right')
+                        .textContent(item)
+                        .position('top left')
                         .hideDelay(3000)
                 );
             }

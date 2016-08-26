@@ -3,10 +3,10 @@
  */
 (function() {
     var config = {
-        apiKey: "AIzaSyBP5I2MkFWtyDAShFT93UFTQGqUyHilfD4",
-        authDomain: "to-do-app-9d77c.firebaseapp.com",
-        databaseURL: "https://to-do-app-9d77c.firebaseio.com",
-        storageBucket: "to-do-app-9d77c.appspot.com"
+        apiKey: "AIzaSyDtNbp-weG3kHrkLuhl6f9Ymy5JMQ0F8W8",
+        authDomain: "group-app-95c18.firebaseapp.com",
+        databaseURL: "https://group-app-95c18.firebaseio.com",
+        storageBucket: "",
     };
     firebase.initializeApp(config);
 

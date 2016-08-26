@@ -46,8 +46,23 @@
 
 }
 
+.emailForm {
+    display:flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5vh;
+}
+
 #loginComponent {
 
+}
+.loginDiv {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 30vh;
 }
 
 #settingsComponent {
